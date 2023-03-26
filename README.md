@@ -1,14 +1,15 @@
 # HackLab-2023
 An updated running of Hack Lab (first run in 2018)
-###Passport To Learning - Hack Lab Syllabus; Fall 2023 - Spring 2024
 
-##Part 1: Course Information
+## Passport To Learning - Hack Lab Syllabus; Fall 2023 - Spring 2024
+
+## Part 1: Course Information
 
 Instructor Information
 * Instructor: Hexadecim8 (Hexa)
 * Contact info @ https://hexadecim8.com
 
-###Course Description
+### Course Description
 
 In Hack Lab, we will be building our understanding of Computer Network Exploitation (CNE) Computer Network Defense (CND) and learning how to be positive contributors to the network security ecosystem. We will achieve this through a mix of class instruction and labs designed to challenge student's understanding of computer technology, its limitations, and how we can take
 advantage of those limitations for our own gain. This is a class for students who are **serious** about exploring a future in computer technology. Students who are interested in offensive
@@ -18,7 +19,7 @@ students who are only casually interested in computers or the Internet._ Please 
 This will be a tight-knit class. We will build a healthy culture among our peers that mirrors the best elements of the hacking community. We will learn while we play, and have a lot of fun doing it. I encourage students of this class to engage with the public hacking community and take advantage of activites happening both locally (in the form of hacking conferences) and remotely (in the form of bug bounty programs and CTFs). 
 
 
-###Prerequisite knowledge
+### Prerequisite knowledge
 
 ***This is not an introductory class!!*** Students should be well acquainted with computers and have at least an intermediate understanding of both computer operation and computer networking.
 In addition to having a healthy curiosity and enthusiasm for computers, students should come prepared with at minimum basic knowledge of the following:
@@ -42,11 +43,11 @@ In addition to having a healthy curiosity and enthusiasm for computers, students
       * Have you used this before?
       * What can you do in a terminal that you might not be able to do in a GUI?
       * Can you tell me what the following basic commands do in Linux?
-         * ls
-         * cd
-         * touch
-         * rm
-         * man
+         * 'ls'
+         * 'cd'
+         * 'touch'
+         * 'rm'
+         * 'man'
 
 In this class, we will be applying technical understandings of computer systems and combining those understandings with our creativity in order to gain access to places we aren’t given explicit permission to be. We will learn where our legal and ethical boundaries are, and understand the importance of exercising common sense and discretion to how we conduct our operations.
 
@@ -58,7 +59,7 @@ Required text and materials: (more to come)
 * Recommended (but optional)text & Other Readings:
 
 
-##Part 2: Student Learning Outcomes
+## Part 2: Student Learning Outcomes
 
 By the end of this class, students will obtain understanding and experience in the following topics:
 * The principles of cybersecurity
@@ -67,7 +68,7 @@ By the end of this class, students will obtain understanding and experience in t
 * The penetration tester methodology
 * A sense of ethics around offensive activity and how to defend against it
 
-##Part 3: Course Policies
+## Part 3: Course Policies
 
 * Backup your work!!! If you write something you can’t replace, make SURE that you scp the files back to your machine, or backup with some other method. If you have questions about this, please make sure to ask me.
 
