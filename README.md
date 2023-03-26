@@ -54,8 +54,9 @@ Required text and materials: (more to come)
 * A laptop computer with wifi internet connection
 * Required text:
    * Red Team Field Manual
-* Recommended text & Other Readings:
    * Smashing The Stack For Fun And For Profit
+* Recommended (but optional)text & Other Readings:
+
 
 ##Part 2: Student Learning Outcomes
 
