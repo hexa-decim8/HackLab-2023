@@ -21,9 +21,11 @@
 
 * Denial of Serice (DoS) - Not to be confused with the 'DOS' subsystem of Windows. A denial of service attack exhuasts the resources of a target system. This will sometimes result in the unavailability of a system or service.
 
-* Enumeration
-* Expanding Access
-* Exploit
+* Enumeration - An early step in the recon stage of the red team methodology is enumeration. Enumerating a system involves collecting information about a target system which may be used un a future attack. Enumeration differs from recon as a general concept in that enumeration is typically information gathering on one specific target individual, system or network. 
+
+* Expanding Access - Laterally moving through a network can also be referred to as "expanding access".
+
+* Exploit - To take advantage of a vulnerability through either a fault in running code, or a misconfiguration.
 
 * Initial Access - Initial access or "gaining a Foothold" is the first step into a victim's network. CVEs can be used to get initial access, but misconfigurations can also be used to gain this level of access. 
 
