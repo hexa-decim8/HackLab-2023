@@ -1,0 +1,5 @@
+Notes on week 1:
+Had planned to have students update their raspberry pis with the hostname to give them practice in the command line, but I didn't anticipate a problem identifying which boxes were which when they were on the network
+
+Lesson learned: make sure that the hostnames are pre-defined - don't get cute with it!
+
