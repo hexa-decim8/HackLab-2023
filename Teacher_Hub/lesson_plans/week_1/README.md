@@ -14,4 +14,3 @@ History of information security
                 David L. Smith - Melissa worm
                 Sven Jaschan - Netsky & sasser worms - created when he was young
 
-change hostname of raspberry pis
