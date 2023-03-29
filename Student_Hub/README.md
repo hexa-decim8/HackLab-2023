@@ -1,7 +1,7 @@
 # Getting Started
 First, let me welcome you to the 2023 running of Hack Lab at Passport To Learning!
 
-We will be getting started in this class by reviewing the syllabus, and getting our environments set up. On our first day, we will connect to our attack VMs and configure them to connect to our attack network.
+We will be getting started in this class by reviewing the syllabus, and getting our environments set up. On our first day, we will connect to our attack VMs and configure them to connect to our attack network. 
 
 ## Accounts to set up:
 * https://github.com
