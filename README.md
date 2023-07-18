@@ -13,13 +13,12 @@ Instructor Information
 
 In Hack Lab, we will be building our understanding of Computer Network Exploitation (CNE) Computer Network Defense (CND) and learning how to be positive contributors to the network security ecosystem. We will achieve this through a mix of class instruction and labs designed to challenge student's understanding of computer technology, its limitations, and how we can take
 advantage of those limitations for our own gain. This is a class for students who are **serious** about exploring a future in computer technology. Students who are interested in offensive
-and defensive computer security, or even system engineering/administration will do best with the material in this class. _The material is likely to be too dense, or even disintersting to
-students who are only casually interested in computers or the Internet._ Please consider this before registering for the class. 
+and defensive computer security, or even system engineering/administration will do best with the material in this class. _The material is likely to be too dense, or even disintersting to students who are only casually interested in computers or the internet._ Please consider this before registering for the class. 
 
 This will be a tight-knit class. We will build a healthy culture among our peers that mirrors the best elements of the hacking community. We will learn while we play, and have a lot of fun doing it. I encourage students of this class to engage with the public hacking community and take advantage of activites happening both locally (in the form of hacking conferences) and remotely (in the form of bug bounty programs and CTFs). 
 
 
-### Prerequisite knowledge
+### Prerequisite Knowledge
 
 ***This is not an introductory class!!*** Students should be well acquainted with computers and have at least an intermediate understanding of both computer operation and computer networking.
 In addition to having a healthy curiosity and enthusiasm for computers, students should come prepared with at minimum basic knowledge of the following:
@@ -58,6 +57,9 @@ Required text and materials: (more to come)
    * Smashing The Stack For Fun And For Profit
 * Recommended (but optional)text & Other Readings:
 
+Please have accounts on the following free websites:
+* https://tryhackme.com
+* https://hackthebox.com
 
 ## Part 2: Student Learning Outcomes
 
