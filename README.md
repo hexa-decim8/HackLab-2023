@@ -9,6 +9,8 @@ Instructor Information
 * Instructor: Hexadecim8 (Hexa)
 * Contact info @ https://hexadecim8.com
 
+This class will run for one hour a week for 15 weeks over the course of one semester.
+
 ### Course Description
 
 In Hack Lab, we will be building our understanding of Computer Network Exploitation (CNE) Computer Network Defense (CND) and learning how to be positive contributors to the network security ecosystem. We will achieve this through a mix of class instruction and labs designed to challenge student's understanding of computer technology, its limitations, and how we can take
