@@ -29,7 +29,8 @@
 
 * Initial Access - Initial access or "gaining a Foothold" is the first step into a victim's network. CVEs can be used to get initial access, but misconfigurations can also be used to gain this level of access. 
 
-* Lateral Movement
+* Lateral Movement - A post-exploitation activity that involves exploiting other hosts that an initial access host can communicate with. This may be on the same LAN or a neighboring LAN.
+
 * "Living-off-the-land"
 * Multi-Factor Authentication (MFA)
 * "Native" tools
